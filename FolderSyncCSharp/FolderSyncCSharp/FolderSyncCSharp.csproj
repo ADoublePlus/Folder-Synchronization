@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.ServiceProcess" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -49,6 +50,12 @@
     <Compile Include="Configuration.cs" />
     <Compile Include="FileActions.cs" />
     <Compile Include="FolderNotification.cs" />
+    <Compile Include="FolderSyncService.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FolderSyncService.Designer.cs">
+      <DependentUpon>FolderSyncService.cs</DependentUpon>
+    </Compile>
     <Compile Include="ILogger.cs" />
     <Compile Include="PathActions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
