@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Configuration.cs" />
     <Compile Include="FileActions.cs" />
+    <Compile Include="FolderNotification.cs" />
     <Compile Include="ILogger.cs" />
     <Compile Include="PathActions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
