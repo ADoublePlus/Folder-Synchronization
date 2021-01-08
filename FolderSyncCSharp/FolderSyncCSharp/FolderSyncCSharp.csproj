@@ -59,6 +59,7 @@
     </Compile>
     <Compile Include="ILogger.cs" />
     <Compile Include="PathActions.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="ProjectInstaller.cs">
       <SubType>Component</SubType>
     </Compile>
