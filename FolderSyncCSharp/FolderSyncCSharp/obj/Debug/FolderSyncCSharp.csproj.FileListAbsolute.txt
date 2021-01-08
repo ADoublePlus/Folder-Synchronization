@@ -1,0 +1,9 @@
+D:\Documents\GitHub\Folder-Synchronization\FolderSyncCSharp\FolderSyncCSharp\bin\Debug\FolderSyncCSharp.exe.config
+D:\Documents\GitHub\Folder-Synchronization\FolderSyncCSharp\FolderSyncCSharp\bin\Debug\FolderSyncCSharp.exe
+D:\Documents\GitHub\Folder-Synchronization\FolderSyncCSharp\FolderSyncCSharp\bin\Debug\FolderSyncCSharp.pdb
+D:\Documents\GitHub\Folder-Synchronization\FolderSyncCSharp\FolderSyncCSharp\obj\Debug\FolderSyncCSharp.csprojAssemblyReference.cache
+D:\Documents\GitHub\Folder-Synchronization\FolderSyncCSharp\FolderSyncCSharp\obj\Debug\FolderSyncCSharp.Properties.Resources.resources
+D:\Documents\GitHub\Folder-Synchronization\FolderSyncCSharp\FolderSyncCSharp\obj\Debug\FolderSyncCSharp.csproj.GenerateResource.cache
+D:\Documents\GitHub\Folder-Synchronization\FolderSyncCSharp\FolderSyncCSharp\obj\Debug\FolderSyncCSharp.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Folder-Synchronization\FolderSyncCSharp\FolderSyncCSharp\obj\Debug\FolderSyncCSharp.exe
+D:\Documents\GitHub\Folder-Synchronization\FolderSyncCSharp\FolderSyncCSharp\obj\Debug\FolderSyncCSharp.pdb
